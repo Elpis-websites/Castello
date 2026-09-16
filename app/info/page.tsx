@@ -103,7 +103,7 @@ export default function Info() {
               title="Mappa: Castello, Piazza Castello 7, Cologno Monzese"
               src="https://maps.google.com/maps?q=Piazza%20Castello%2C%207%2C%2020093%20Cologno%20Monzese%20MI&z=16&output=embed"
               loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"
+              referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
         </div>
